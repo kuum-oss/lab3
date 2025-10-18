@@ -1,5 +1,5 @@
 // Clock.java
-// Припущення про вигляд базового класу
+// Припущення про вигляд базового класу(як по мені середненько та і усе)
 public class Clock {
     protected int hours;
     protected int minutes;
